@@ -1,4 +1,4 @@
-# my_app
+# Write your first Flutter app
 
 A new Flutter project.
 
